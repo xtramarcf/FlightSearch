@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FlightSearch</string>
+    <string name="pick_date">Day of departure</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="nonStopFlights">Only direct flights</string>
+    <string name="country">Country</string>
+    <string name="price">Price</string>
+    <string name="title_activity_flights">FlightsActivity</string>
+    <string name="flight_search">Flight search</string>
+    <string name="search_for_flights">Search for Flights!</string>
+    <string name="iataCodes">Use IATA-Codes for departure and destination</string>
+</resources>
